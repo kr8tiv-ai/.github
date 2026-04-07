@@ -1,6 +1,8 @@
 <div align="center">
 
-# kr8tiv-ai
+<img src="https://raw.githubusercontent.com/kr8tiv-ai/.github/main/profile/header.png" alt="kr8tiv-ai — open source everything" width="100%" />
+
+<br />
 
 ### Decentralized AI for the Masses
 
