@@ -20,9 +20,24 @@
 
 ## What We Build
 
-We build **open-source AI products** and **DeFi infrastructure** on Solana and Base — all connected through the Bags.fm ecosystem.
+We build **open-source AI products**, **Operational Automation tools**, and **DeFi infrastructure** — pushing the boundaries of what autonomous systems can achieve.
 
-Two product lines. One mission: make AI accessible, self-sovereign, and revenue-generating for holders.
+From managing a local construction crew with a business OS, to AI companions and automated trading bots, our mission is to build AI that actually does the work.
+
+---
+
+## Evolved & Operations
+
+> *Building Businesses That Run Themselves*
+
+Automating operations so you can focus on the important stuff.
+
+| | |
+|---|---|
+| **[Evolved](https://github.com/kr8tiv-ai/evolved)** | Free & open-source business OS powered by an MCP (84 tools), field app, and dashboard |
+| **[Jarvis](https://github.com/kr8tiv-ai/Jarvis)** | Autonomous AI trading bot and digital assistant for continuous market awareness |
+| **[Aura Homes OS](https://github.com/kr8tiv-ai/aura-homes)** | Local-first project OS for sustainable eco-home construction |
+| **[GSD-2](https://github.com/kr8tiv-ai/gsd-2)** | Meta-prompting and spec-driven development system for long-running autonomous agents |
 
 ---
 
