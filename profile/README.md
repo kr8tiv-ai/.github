@@ -32,12 +32,15 @@ From managing a local construction crew with a business OS, to AI companions and
 
 Automating operations so you can focus on the important stuff.
 
-| | |
-|---|---|
-| **[Evolved](https://github.com/kr8tiv-ai/evolved)** | Free & open-source business OS powered by an MCP (84 tools), field app, and dashboard |
-| **[Jarvis](https://github.com/kr8tiv-ai/Jarvis)** | Autonomous AI trading bot and digital assistant for continuous market awareness |
-| **[Aura Homes OS](https://github.com/kr8tiv-ai/aura-homes)** | Local-first project OS for sustainable eco-home construction |
-| **[GSD-2](https://github.com/kr8tiv-ai/gsd-2)** | Meta-prompting and spec-driven development system for long-running autonomous agents |
+| Core Component | What It Does | Repo |
+|---|---|---|
+| 🧠 **Evolved Core (MCP)** | The brain of the operation. A free & open-source Model Context Protocol server exposing 84 specialized tools to LLMs for completely autonomous business management. | [`evolved`](https://github.com/kr8tiv-ai/evolved) |
+| 📊 **Ops Workbook Router** | The database and truth-source. A 20-tab operational spreadsheet backed by a custom Google Apps Script router for real-time syncing. | [`evolve-ops-workbook`](https://github.com/kr8tiv-ai/evolve-ops-workbook) |
+| 📈 **Owner Dashboard** | High-level analytics, financial tracking, and job scheduling. Built for the business owner to monitor the AI's operations. | [`evolve-dashboard`](https://github.com/kr8tiv-ai/evolve-dashboard) |
+| 📱 **Field App** | The crew's on-site interface. Job details, photo uploads, and time-tracking, synced directly back to the Ops Workbook and MCP. | [`evolve-field-app`](https://github.com/kr8tiv-ai/evolve-field-app) |
+| 🏡 **Aura Homes OS** | A specialized fork/implementation of Evolved designed specifically for sustainable, local-first eco-home construction. | [`aura-homes`](https://github.com/kr8tiv-ai/aura-homes) |
+| 🤵 **Jarvis** | Autonomous AI trading bot and digital assistant for continuous market awareness. | [`Jarvis`](https://github.com/kr8tiv-ai/Jarvis) |
+| 🧠 **GSD-2** | Meta-prompting and spec-driven development system for orchestrating these long-running autonomous agents. | [`gsd-2`](https://github.com/kr8tiv-ai/gsd-2) |
 
 ---
 
